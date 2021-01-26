@@ -27,7 +27,7 @@ public class FLS_bot extends org.telegram.telegrambots.bots.TelegramLongPollingB
 
     @Override
     public String getBotToken() {
-        return "1302957992:AAEMcrZNto-3agWxxrV8W0ohbJHrnzzuNgc";
+        return "";
     }
 
     @Override
