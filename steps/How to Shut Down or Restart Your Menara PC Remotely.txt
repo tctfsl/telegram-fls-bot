@@ -1,0 +1,10 @@
+How to shut down or restart your Menara PC remotely
+1. Go to Start (Windows icon on the taskbar).
+2. Type "cmd".
+3. Click "cmd" in the search result list. This will launch the command prompt.
+4. Type:
+	- "shutdown /s" to shut down, OR
+	- "shutdown /r" to restart.
+5. Press Enter.
+6. You will get a message saying that the PC will shutdown in a minutes.
+7. If you're restarting, please wait 10-15 minutes before you try to remote again.
